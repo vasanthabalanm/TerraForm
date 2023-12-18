@@ -1,0 +1,19 @@
+Terraform continued in Deveops training
+
+Day-1
+-----------------------------------------------------------------
+Traditoinal IT and challenges:
+
+
+                                 Procurement     ---------> Infrastructure Team: 
+                                      ^                       Field engineers
+                                      |				     |
+                                                              System Adminstrator
+Buisness ->     BA          -> Solution Architect 		or Net work admin
+	 (Business analyst)	     (TL)	                     |
+							       Storage Admin
+								     |
+								Backup Admin
+								     |                       |--------------|
+							      Application team               |  DATA CENTER |
+											     |--------------|
